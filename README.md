@@ -1,0 +1,3 @@
+The ultimate magic tool to help you convert VOC xml annotation file to YOLO format txt annotation file, so that you can transfer train your model using YOLOv3, 4, 5. It also help split train val datasets (VOC data).
+
+I had move out the class.json file, and replace with python dictionary of classes for my need. I had tested on hard hat detection datasets (7/4/22), it work like charm. Change the directory to your intended.
